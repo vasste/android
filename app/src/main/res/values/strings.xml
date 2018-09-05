@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fcmtest</string>
+    <string name="destinationUrl">destination url</string>
+    <string name="destinationUrlKey">destinationUrlKey</string>
+
+    <string name="preference_file_key">faces2phone.net.notification.PREFERENCE_FILE_KEY</string>
+</resources>

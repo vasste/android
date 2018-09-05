@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "494246466250",
+    "firebase_url": "https://faces2phone.firebaseio.com",
+    "project_id": "faces2phone",
+    "storage_bucket": "faces2phone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494246466250:android:322635bdf975ae1c",
+        "android_client_info": {
+          "package_name": "net.faces2phone.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494246466250-hdjr1n271s303iomp5eit7cvjfrfa7qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVvSQl6cEAXJ1SWBJIBg7Xau9BzGcoWc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494246466250:android:805dee0415371615",
+        "android_client_info": {
+          "package_name": "net.faces2phone.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494246466250-hdjr1n271s303iomp5eit7cvjfrfa7qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVvSQl6cEAXJ1SWBJIBg7Xau9BzGcoWc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
